@@ -14,3 +14,4 @@ Screenshot of C and Python code
 ![C Screenshot](https://github.com/thatcatfromspace/vscode-one-monokai-deep-dark/blob/master/Screenshot%20from%202022-11-27%2001-54-22.png)
 ![Python Screenshot](https://github.com/thatcatfromspace/vscode-one-monokai-deep-dark/blob/master/Screenshot%20from%202022-11-27%2001-55-14.png)
 
+Provided under the MIT license.
